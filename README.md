@@ -1,3 +1,11 @@
+
+![Uploading Screenshot 2025-10-24 200239.png…]()
+
+
+
+
+
+
 # 🚀 Universal E-Commerce Site Builder Template (Next.js & Tailwind CSS)
 
 This project is a highly versatile and responsive **E-commerce Store template** designed to function as a core template within a site builder platform. It demonstrates modern front-end development practices, exceptional responsiveness, and user experience optimizations, all within an elegant Arabic-first (RTL) design context.
